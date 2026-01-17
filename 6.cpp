@@ -8,8 +8,9 @@ int main () {
     cout<<"enter value of b";
     cin>>b;
     c=a+b;
-    cout<<"the value of c is"<<::c;
+    cout<<"the value of c is"<< c;
     return 0;
 
 }
+
 //45 because we used global variable
